@@ -1,0 +1,19 @@
+### STAR   --runMode genomeGenerate      --runThreadN 16   --genomeDir star_index/Homo_sapiens/Gencode40.STAR.v2.7.11a.sjdbOverhang84   --genomeFastaFiles annotations/Homo_sapiens/Homo_sapiens.GRCh38.fa      --genomeSAindexNbases 14   --limitGenomeGenerateRAM 50000000000000   --outFileNamePrefix star_index/Homo_sapiens/Gencode40.STAR.v2.7.11a.sjdbOverhang84   --sjdbGTFfile annotations/Homo_sapiens/Homo_sapiens.GRCh38.Gencode40.gtf   --sjdbOverhang 84
+### GstrandBit 32
+versionGenome	2.7.4a
+genomeType	Full
+genomeFastaFiles	annotations/Homo_sapiens/Homo_sapiens.GRCh38.fa 
+genomeSAindexNbases	14
+genomeChrBinNbits	18
+genomeSAsparseD	1
+genomeTransformType	None
+genomeTransformVCF	-
+sjdbOverhang	84
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	annotations/Homo_sapiens/Homo_sapiens.GRCh38.Gencode40.gtf
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	3205414720 24875877670

@@ -1,0 +1,19 @@
+### STAR   --runMode genomeGenerate      --runThreadN 16   --genomeDir star_index/Homo_sapiens-Mus_musculus/Gencode40.STAR.v2.7.11a.sjdbOverhang99   --genomeFastaFiles annotations/Homo_sapiens-Mus_musculus/Homo_sapiens.GRCh38-Mus_musculus.GRCm39.fa      --genomeSAindexNbases 14   --limitGenomeGenerateRAM 50000000000000   --outFileNamePrefix star_index/Homo_sapiens-Mus_musculus/Gencode40.STAR.v2.7.11a.sjdbOverhang99   --sjdbGTFfile annotations/Homo_sapiens-Mus_musculus/Homo_sapiens.GRCh38-Mus_musculus.GRCm39.gtf   --sjdbOverhang 99
+### GstrandBit 33
+versionGenome	2.7.4a
+genomeType	Full
+genomeFastaFiles	annotations/Homo_sapiens-Mus_musculus/Homo_sapiens.GRCh38-Mus_musculus.GRCm39.fa 
+genomeSAindexNbases	14
+genomeChrBinNbits	18
+genomeSAsparseD	1
+genomeTransformType	None
+genomeTransformVCF	-
+sjdbOverhang	99
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	annotations/Homo_sapiens-Mus_musculus/Homo_sapiens.GRCh38-Mus_musculus.GRCm39.gtf
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	6012351548 48774491158

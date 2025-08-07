@@ -1,0 +1,22 @@
+{
+    "index_version": 4,
+    "reference_gfa": [
+        "salmon_index/Homo_sapiens-Mus_musculus/salmon.v1.10.2.31-mer"
+    ],
+    "sampling_type": "dense",
+    "k": 31,
+    "num_kmers": 1581855553,
+    "num_contigs": 43962384,
+    "seq_length": 2900727073,
+    "have_ref_seq": true,
+    "have_edge_vec": false,
+    "SeqHash": "ae5e8155a313202b52592ce66e9408a14ed793e3963a8fadafd5b5809136ac90",
+    "NameHash": "a22e8329d9d7b9482104e0e80b74af48070ef2d245fb9df6588ebc107601602f",
+    "SeqHash512": "a0b6961a90221eee17d2a72909dcbb36169e15a0d2d23159dfa42e6c81fa10453a4983c19d21b61f2fc06bece110da953c6d847a253ad5165e1fdf032144c7ec",
+    "NameHash512": "33d72194e0d61aa1f218973750b8879c93bb2168ca9d008642b73a8dbe7346863306d6f7f1e02ccd3ee176593e8e449941db31ec8da3c4ecdfe3605e2dad9537",
+    "DecoySeqHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "DecoyNameHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "num_decoys": 0,
+    "first_decoy_index": 18446744073709478171,
+    "keep_duplicates": true
+}
